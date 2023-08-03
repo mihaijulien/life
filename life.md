@@ -14,6 +14,6 @@
 - 12/2018 Traveled to Thailand
 - 01/2020 Visited Dubai and Abu Dhabi
 - 12/2021 Traveled to Kenya
-- 03/2022 2023 Software Engineer at Oracle
+- 03/2022-2023 Software Engineer at Oracle
 - 07/2022 Traveled to Iceland
 - 04/2023 Traveled to Argentina and Brazil

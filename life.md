@@ -25,3 +25,5 @@
 - 03/2022-2023 Software Engineer at Oracle
 - 07/2022 Traveled to Iceland
 - 04/2023 Traveled to Argentina and Brazil
+- 09/2023 Traveled to China (Beijing, Xi'An, Zhangjiajie, Shanghai)
+- 10/2023 Visited Chisinau and Tiraspol
